@@ -16,7 +16,7 @@ applications: Links users to jobs with status (screening, interview, etc.).
 scraped_jobs: Raw data store for unprocessed job leads.
 COMPLETE FOLDER STRUCTURE
 career-compass-ai-main/
-├── backend/                        # FastAPI Backend
+├── backend/                        # FastAPI Backend d
 │   ├── app/                        # Main Application Logic
 │   │   ├── routers/                # API Endpoints (Auth, Jobs, Users, etc.)
 │   │   ├── scraper/                # Job Scraping Subsystem
